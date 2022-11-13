@@ -166,7 +166,7 @@ h3{
             /* font-size:30px; */
             scale:1.5;
             
-            transform: translateY(-50px);
+            transform: translateY(-150px);
         }
     }
     @keyframes correct{
